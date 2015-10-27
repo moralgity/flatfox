@@ -1,0 +1,67 @@
+!!It worked
+!! MOUSE
+
+! mouse theme
+Xcursor.theme: Simple-and-Soft 
+
+!! MISC
+
+! Clickable links
+*perl-ext-common:    default,matcher
+*url-launcher:       firefox
+*matcher.button:     1
+
+
+!! RICE
+
+! Make minimal
+*scrollBar:          false
+*internalBorder:     23
+*.geometry:          75x14
+
+URxvt*font: xft:Inconsolata 
+
+! Change cursor
+*cursorUnderline:    true
+
+
+!! COLORS
+
+! Misc
+*foreground:         #DDDDDD
+*background:         #595959
+*cursorColor:        #F3D5C9
+*highlightColor:     #989898
+*highlightTextColor: #DDDDDD
+
+! Black
+*color0:             #595959
+*color8:             #989898
+
+! Red
+*color1:             #F15F60
+*color9:             #F2bFC9
+
+! Green
+*color2:             #52965A
+*color10:            #9DD5B1
+
+! Yellow
+*color3:             #F9DC5C
+*color11:            #F3De8A
+
+! Blue
+*color4:             #779FA1
+*color12:            #CFD8D7
+
+! Magenta
+*color5:            #FFCAD4
+*color13:           #Ef8FA3
+
+! Cyan
+*color6:             #90B494
+*color14:            #96CDFF
+
+! White
+*color7:             #F2F1B9
+*color15:            #F6F6C9

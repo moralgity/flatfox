@@ -1,0 +1,46 @@
+## BORDERS
+
+# Hide bloat
+window.handle.width: 0
+window.client.padding.width: 0
+
+# Set border width
+border.width: 0
+
+# Set border color
+window.*.client.color: #BAFCD1
+
+## TITLE
+
+# Add some padding
+padding.width: 10
+padding.height: 8
+
+# Set title colors
+window.*.title.bg: Solid Flat
+window.*.*.bg: Parentrelative
+window.*.title.bg.color: #BAFCD1
+window.*.label.text.color: #BAFCD1
+
+# Set buttons color
+window.*.button.*.image.color: #222222
+
+
+## MENU
+
+# Set menu colors
+menu.*.bg: Solid Flat
+menu.*.bg.color: #BAFCD1
+menu.*.text.color: #222222
+
+# Add some padding
+menu.border.width: 10
+menu.border.color: #BAFCD1
+
+# Add some submenu padding
+menu.overlap.x: -20
+menu.overlap.y: 0
+
+# Add padding between items
+menu.separator.padding.height: 3
+menu.separator.color: #BAFCD1

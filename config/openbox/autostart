@@ -1,0 +1,2 @@
+# this does not work
+compton -c -f & 

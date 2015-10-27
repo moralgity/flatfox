@@ -1,0 +1,20 @@
+## launch applications
+super + Return 
+	urxvt
+
+## window managment
+# move windows
+# super + {Left, Down, Up, Right}
+#	wmv {-20 0, 0 20, 0 -20, 20 0} $(pfw)
+
+# resize windows
+# super + mod1 + {Left, Down, Up, Right}
+#	wrs {-20 0, 0 20, 0 -20, 20 0} $(pfw)
+
+# cicle through windows
+# super + Tab
+#	~/.config/sxhkd/contrib/focus.sh next
+
+super + p
+#	dmenu_run -i -nb #595959 -nf #DDDDDD -sb #BAFCD1 -sf #DDDDDD 
+    dmenu_rin -i
