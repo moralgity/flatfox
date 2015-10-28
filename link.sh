@@ -14,5 +14,5 @@ cp -ar config/openbox/ ~/.config/openbox/
 cp -ar config/sxhkd/ ~/.config/sxhkd/
 cp -ar themes/flatfox ~/.themes/flatfox
 cp vimrc ~/.vimrc
-cp xinitrc ~/.xinirc
+cp xinitrc ~/.xinitrc
 cp moshi-moshi-fox-desu.jpg ~/images/wallpapers/moshi-moshi-fox-desu.jpg
