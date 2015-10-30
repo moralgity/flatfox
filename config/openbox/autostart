@@ -1,0 +1,8 @@
+compton -c -f &
+feh --bg-fill /home/noise/images/wallpapers/moshi-moshi-fox-desu.jpg &
+feh --bg-fill /home/noise/images/wallpapers/lotr-dark.jpg &
+urxvtd -q -o -f &
+compton -c -C -f -D 5 -b &
+sxhkd &
+./bar.sh | lemonbar &
+                           
